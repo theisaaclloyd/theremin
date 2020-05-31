@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Theremin library
+# Written by Isaac Lloyd 05/18/20
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Theremin	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################
+timeout		KEYWORD2
+calibrate	KEYWORD2
+read		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+US	LITERAL1
+EU	LITERAL1
+
+#other
+#GREEN	KEYWORD3	GREEN	RESERVED_WORD
