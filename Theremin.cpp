@@ -148,5 +148,6 @@ long Theremin::calibrate(int samples, int calibrateTime){
 		_baseline = _reading / j;
 		//Serial.print(" baseline = ");
 		//Serial.print(_baseline);
+		return _baseline;
     }
 }
